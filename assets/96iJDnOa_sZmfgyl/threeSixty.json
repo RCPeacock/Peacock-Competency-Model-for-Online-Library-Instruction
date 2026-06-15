@@ -1,0 +1,67 @@
+{
+  "version": "3.98.34380.0",
+  "course_id": "5shvPw8wX0t",
+  "title": "IDOLS",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Competency REflection"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6YJ5ANarM22",
+      "title": "Introduction",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6Mh2SbG2dnj",
+      "title": "Domain 1",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6X0Gbn6Q3Lt",
+      "title": "Domain 2",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5Y1LGURSha3",
+      "title": "Domain 3",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6pVDVT1xlkz",
+      "title": "Domain 4",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "68SmDdbqxVI",
+      "title": "Domain 5",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5sNoHnU0Nso",
+      "title": "Profile",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6WP2i64BN3V",
+      "title": "Plan",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "66BzBsbzxxA",
+      "title": "Conclusion",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
